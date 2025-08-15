@@ -1,0 +1,1 @@
+if image_blend == c_gray and not mouse_check_button(mb_left) then image_blend = c_white

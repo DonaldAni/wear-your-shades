@@ -11,7 +11,8 @@ playables = [
 	snd_momyelled,
 	snd_ohshit,
 	snd_pomni,
-	snd_pressagain
+	snd_pressagain,
+	snd_jim
 ]
 
 currentlyplaying = noone

@@ -1,0 +1,1 @@
+instance_create_layer(x+50,y+75,layer,obj_yousure)
