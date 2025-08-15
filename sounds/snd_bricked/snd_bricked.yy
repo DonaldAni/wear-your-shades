@@ -12,8 +12,8 @@
   "duration":5.80746,
   "name":"snd_bricked",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"mikebutton",
+    "path":"folders/Sounds/mikebutton.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

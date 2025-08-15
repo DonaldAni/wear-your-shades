@@ -12,8 +12,8 @@
   "duration":2.174082,
   "name":"snd_ohshit",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"mikebutton",
+    "path":"folders/Sounds/mikebutton.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

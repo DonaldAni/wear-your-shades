@@ -12,8 +12,8 @@
   "duration":73.049164,
   "name":"snd_pomni",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"mikebutton",
+    "path":"folders/Sounds/mikebutton.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

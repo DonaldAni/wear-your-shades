@@ -12,8 +12,8 @@
   "duration":1.489093,
   "name":"snd_mikemike",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"mikebutton",
+    "path":"folders/Sounds/mikebutton.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

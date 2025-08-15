@@ -21,6 +21,11 @@ if sliding {
 		sliding = false
 		if slider_prog >= 0.9 then slider_prog = 1
 		else slider_prog = 0
+		
+		if slider_prog == 1 {
+			// todo: cool shit
+			room_goto(rm_index)
+		}
 	}
 }
 

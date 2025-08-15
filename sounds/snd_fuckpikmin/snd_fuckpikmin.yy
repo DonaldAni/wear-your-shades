@@ -12,8 +12,8 @@
   "duration":2.471905,
   "name":"snd_fuckpikmin",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"mikebutton",
+    "path":"folders/Sounds/mikebutton.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -12,8 +12,8 @@
   "duration":7.437914,
   "name":"snd_gamegrumpsguy",
   "parent":{
-    "name":"Sounds",
-    "path":"folders/Sounds.yy",
+    "name":"mikebutton",
+    "path":"folders/Sounds/mikebutton.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
